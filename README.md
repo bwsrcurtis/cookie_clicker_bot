@@ -1,4 +1,4 @@
-# cookie_clicker_bot
+<h1>Cookie Clicker Bot</h1>
 Bot that automatically plays cookie clicker.
 Will automatically purchase the most expensive upgrade available every five seconds.
 
