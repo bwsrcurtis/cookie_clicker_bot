@@ -1,5 +1,5 @@
 <h1>Cookie Clicker Bot</h1>
-Bot that automatically plays cookie clicker.
+Bot that automatically plays cookie clicker. Simple example of using logic to maximize outcomes.
 Will automatically purchase the most expensive upgrade available every five seconds. Uses Selenium to interact with the site.
 
 
